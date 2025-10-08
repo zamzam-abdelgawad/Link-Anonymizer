@@ -6,6 +6,15 @@ A privacy-focused web application that removes tracking parameters from URLs to 
 
 🌐 **Live Demo:** [https://link-anonymizer.netlify.app/](https://link-anonymizer.netlify.app/)
 
+---
+
+## 📸 Screenshots
+
+### Light Mode
+![Light Mode Screenshot](./screenshots/light-mode.png)
+
+### Dark Mode
+![Dark Mode Screenshot](./screenshots/dark-mode.png)
 
 ---
 
@@ -24,9 +33,10 @@ A privacy-focused web application that removes tracking parameters from URLs to 
 
 ## 🛠️ Technologies Used
 
-- **React 18** - Modern React with Hooks
-- **TypeScript** - Type-safe development
-- **Vite** - Next-generation frontend tooling
+- **React 19** - Latest React with enhanced performance and features
+- **TypeScript 5.9** - Type-safe development with advanced type system
+- **Vite 7** - Next-generation frontend tooling for blazing-fast builds
+- **ESLint** - Code quality and consistency
 - **CSS3** - Custom styling with modern CSS features
 - **Netlify** - Continuous deployment and hosting
 
@@ -43,7 +53,7 @@ A privacy-focused web application that removes tracking parameters from URLs to 
 
 1. Clone the repository
 ```bash
-git clone https://github.com/zamzam-abdelgawad/Link-Anonymizer
+git clone https://github.com/yourusername/link-anonymizer.git
 cd link-anonymizer
 ```
 
@@ -183,7 +193,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Zamzam Abdelgawad**
 - Portfolio: [zamzam-portfolio.com](https://zamzam-portfolio.netlify.app/)
 - LinkedIn: [linkedin.com/in/zamzam-abdelgawad](https://www.linkedin.com/in/zamzam-abdelgawad/)
 - GitHub: [@zamzam-abdelgawad](https://github.com/zamzam-abdelgawad)
@@ -201,10 +211,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📊 Project Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/link-anonymizer?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/link-anonymizer?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/link-anonymizer)
-![GitHub license](https://img.shields.io/github/license/yourusername/link-anonymizer)
+![GitHub stars](https://img.shields.io/github/stars/zamzam-abdelgawad/link-anonymizer?style=social)
+![GitHub forks](https://img.shields.io/github/forks/zamzam-abdelgawad/link-anonymizer?style=social)
+![GitHub issues](https://img.shields.io/github/issues/zamzam-abdelgawad/link-anonymizer)
+![GitHub license](https://img.shields.io/github/license/zamzam-abdelgawad/link-anonymizer)
 
 ---
 
@@ -216,6 +226,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Regular Users** - Protect your privacy when sharing links
 - **Marketers** - Analyze URLs for tracking parameters
 
+---
+
+## 🔗 Related Projects
+
+- [ClearURLs](https://github.com/ClearURLs/Addon) - Browser extension for URL cleaning
+- [Privacy Badger](https://privacybadger.org/) - Browser extension that blocks trackers
 
 ---
 
