@@ -2,8 +2,6 @@
 
 A privacy-focused web application that removes tracking parameters from URLs to protect your online privacy. Built with React and TypeScript, featuring a friendly interface with Bubbles from the Powerpuff Girls as your privacy guide!
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR-BADGE-ID/deploy-status)](https://link-anonymizer.netlify.app/)
-
 🌐 **Live Demo:** [https://link-anonymizer.netlify.app/](https://link-anonymizer.netlify.app/)
 
 ---
